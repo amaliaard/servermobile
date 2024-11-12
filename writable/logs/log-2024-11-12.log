@@ -1,0 +1,391 @@
+CRITICAL - 2024-11-12 03:19:43 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 14.
+ 1 APPPATH\Controllers\LoginController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\LENOVO\\Documents\\PEMROGRAMAN III\\server-mobile\\app\\Controllers\\LoginController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\LENOVO\\Documents\\PEMROGRAMAN III\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:28:40 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 14.
+ 1 APPPATH\Controllers\LoginController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:29:39 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:29:41 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:29:41 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:33:58 --> Error: Class "App\Model\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:34:00 --> Error: Class "App\Model\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:34:01 --> Error: Class "App\Model\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:37:09 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:37:11 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:38:58 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:39:53 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:39:55 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:39:55 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:39:56 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:39:57 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:40:53 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:40:56 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:40:58 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:40:59 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:41:00 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:41:54 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:41:56 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:41:56 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:42:43 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:42:44 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:42:45 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:42:45 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:42:47 --> Error: Class "App\Models\LoginModel" not found
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:43:30 --> ErrorException: Undefined variable $loginsukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginsukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:43:32 --> ErrorException: Undefined variable $loginsukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginsukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:43:33 --> ErrorException: Undefined variable $loginsukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginsukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:44:13 --> ErrorException: Undefined variable $loginsukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginsukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:45:20 --> ErrorException: Undefined variable $loginSukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginSukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:45:24 --> ErrorException: Undefined variable $loginSukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginSukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:45:26 --> ErrorException: Undefined variable $loginSukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginSukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:45:27 --> ErrorException: Undefined variable $loginSukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginSukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
+CRITICAL - 2024-11-12 03:45:30 --> ErrorException: Undefined variable $loginSukses
+[Method: GET, Route: login]
+in APPPATH\Controllers\LoginController.php on line 23.
+ 1 APPPATH\Controllers\LoginController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loginSukses', 'C:\\xampp\\htdocs\\server-mobile\\app\\Controllers\\LoginController.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\controllers\LoginController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\controllers\LoginController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\server-mobile\\public\\index.php')
